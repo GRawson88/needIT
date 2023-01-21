@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_690790_needit_needit">x_690790_needit_needit</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NEED</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-21 19:16:28</sys_created_on>
+        <sys_id>65c832d92f202110a7ebde1a2799b615</sys_id>
+        <sys_name>NEED</sys_name>
+        <sys_package display_value="NeedIT" source="x_690790_needit">ed88ba192f202110a7ebde1a2799b6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">ed88ba192f202110a7ebde1a2799b6e0</sys_scope>
+        <sys_update_name>sys_number_65c832d92f202110a7ebde1a2799b615</sys_update_name>
+    </sys_number>
+</record_update>
